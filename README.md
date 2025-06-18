@@ -16,8 +16,8 @@ A full-stack contact management application built with:
 
 ✅ User can add, edit, and delete contacts  
 ✅ Authencation System 
-✅ Form validation for inputs 
-✅ Export Contact Data in Pdf Format 
+✅ Form validation for inputs ,
+✅ Export Contact Data in Pdf Format ,
 ✅ Import Contact Data from CSV File 
 ✅ Support for dynamic extra fields (key-value pairs)  
 ✅ Clean UI using Tailwind CSS  
